@@ -13,4 +13,4 @@ go build
 ## To run unit test
 ```bash
 go test -v
-# Testing`
+# Testing`mode
